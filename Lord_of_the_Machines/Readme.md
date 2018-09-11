@@ -1,2 +1,2 @@
-Analytics_Vidhya
-This repository contains the codes that has been written for Analytics Vidhya competitions
+This folder consists of the codes written for the Lord of the Machines competition.
+
